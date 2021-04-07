@@ -4,9 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate"
+    "build": "nuxt generate",
+    "start": "nuxt start"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.4.0",
